@@ -64,5 +64,6 @@ public class FibonacciRecursion {
         f.printNFibonacciNumbersUsingRecursion();
         System.out.println("\n\nDoing the fast way: ");
         f.printNFibonacciNumbersUsingLoop();
+        sc.close();
     }
 }

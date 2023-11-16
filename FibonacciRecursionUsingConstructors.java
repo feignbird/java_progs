@@ -75,5 +75,6 @@ public class FibonacciRecursionUsingConstructors {
         fParameterized.printNFibonacciNumbersUsingRecursion();
         System.out.println("\n\nDoing the fast way: ");
         fParameterized.printNFibonacciNumbersUsingLoop();
+        sc.close();
     }
 }
