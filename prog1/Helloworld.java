@@ -7,13 +7,18 @@
  *
  * @author feignbird
  */
+
+/* About JVM - provides a runtime environment in which a java bytecode can execute without worring about the platform or system architecture. 
+ * https://www.javatpoint.com/jvm-java-virtual-machine
+ * 
+ */
+
 public class Helloworld {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String args[]) {
-        // TODO code application logic here
         System.out.println("Hello, world!!");
     }
 }

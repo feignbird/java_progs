@@ -42,7 +42,6 @@ public class ReverseArray {
      * @param args the command line arguments
      */
     public static void main(String args[]) {
-        // TODO code application logic here
         ReverseArray r = new ReverseArray();
         r.reverseFor();
         r.reverseWhile();
