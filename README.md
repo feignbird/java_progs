@@ -12,3 +12,4 @@
 9. Write a program in java to create Hybrid inheritance in interfaces & then implement a class based on that & show possible errors that can occur.
 10. Write a program in java to demonstrate working of runtime polymorphism.
 11. Write a program in java to demonstrate working of inner class.
+12. Write a program in java to demonstrate working of Thread class & Runnable interface.
