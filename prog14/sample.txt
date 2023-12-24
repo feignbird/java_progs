@@ -1,0 +1,2 @@
+Hello world, I have written in a file, 1st time
+Next sequence of chars !!! 
